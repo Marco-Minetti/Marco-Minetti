@@ -6,7 +6,7 @@
 		"dev": "vite dev",
 		"build": "vite build && touch docs/.nojekyll",
 		"preview": "vite preview"
-	},
+	},	
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/adapter-static": "^2.0.3",
